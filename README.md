@@ -1,5 +1,7 @@
 # Skin Lesion Classification Challenge
 
+*All the details in the article.*
+
 ## Overview
 This repository contains all the materials and code for the skin lesion classification project conducted from February 26, 2024, to April 28, 2024. The goal is to classify dermoscopic images of skin lesions into one of eight diagnostic classes using advanced machine learning techniques, with a focus on the ABCD rule of dermoscopy—evaluating Asymmetry, Border irregularity, Color, and Dimension.
 
